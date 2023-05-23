@@ -1,0 +1,20 @@
+{
+    "sports centre": {
+        "opening_times": "6am-10pm"
+    },
+    "computing building": {
+        "opening_times": "8am-8pm"
+    },
+    "science centre": {
+        "opening_times": "8am-8pm"
+    },
+    "building 1": {
+        "opening_times": "9am-11pm"
+    },
+    "building 2": {
+        "opening_times": "9am-11pm"
+    },
+    "building 3": {
+        "opening_times": "9am-11pm"
+    }
+}
