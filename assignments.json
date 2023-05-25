@@ -1,0 +1,40 @@
+{
+    "computer science": {
+        "assignments": [
+            {
+                "title": "Assignment 1",
+                "year": "2023",
+                "month": "04",
+                "day": "23"
+            },
+            {
+                "title": "Assignment 2",
+                "year": "2023",
+                "month": "06",
+                "day": "23"
+            }
+        ]
+    },
+    "physics": {
+        "assignments": [
+            {
+                "title": "Assignment 1",
+                "year": "2023",
+                "month": "04",
+                "day": "24"
+            },
+            {
+                "title": "Assignment 2",
+                "year": "2023",
+                "month": "06",
+                "day": "24"
+            },
+            {
+                "title": "Assignment 3",
+                "year": "2023",
+                "month": "07",
+                "day": "24"
+            }
+        ]
+    }
+}
