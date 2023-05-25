@@ -9,9 +9,9 @@
             },
             {
                 "title": "Assignment 2",
-                "year": "2023",
-                "month": "06",
-                "day": "23"
+                "year": 2023,
+                "month": 6,
+                "day": 23
             }
         ]
     },
@@ -19,21 +19,21 @@
         "assignments": [
             {
                 "title": "Assignment 1",
-                "year": "2023",
-                "month": "04",
-                "day": "24"
+                "year": 2023,
+                "month": 4,
+                "day": 24
             },
             {
                 "title": "Assignment 2",
-                "year": "2023",
-                "month": "06",
-                "day": "24"
+                "year": 2023,
+                "month": 6,
+                "day": 24
             },
             {
                 "title": "Assignment 3",
-                "year": "2023",
-                "month": "07",
-                "day": "24"
+                "year": 2023,
+                "month": 7,
+                "day": 24
             }
         ]
     }
